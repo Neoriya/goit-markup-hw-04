@@ -208,11 +208,6 @@ img {
     padding-top: var(--typical-margin);
 }
 
-.description-pic-list {
-    display: flex;
-    margin-bottom: 30px;
-}
-
 .description-pic-item {
     width: 270px;
     height: 120px;
@@ -222,6 +217,7 @@ img {
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-bottom: 30px;
 }
 
 .description-pic-item:last-child {
